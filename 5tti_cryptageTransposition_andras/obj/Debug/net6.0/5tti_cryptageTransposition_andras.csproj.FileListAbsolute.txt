@@ -1,0 +1,14 @@
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\bin\Debug\net6.0\5tti_cryptageTransposition_andras.exe
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\bin\Debug\net6.0\5tti_cryptageTransposition_andras.deps.json
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\bin\Debug\net6.0\5tti_cryptageTransposition_andras.runtimeconfig.json
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\bin\Debug\net6.0\5tti_cryptageTransposition_andras.dll
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\bin\Debug\net6.0\5tti_cryptageTransposition_andras.pdb
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.AssemblyInfoInputs.cache
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.AssemblyInfo.cs
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.csproj.CoreCompileInputs.cache
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.dll
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\refint\5tti_cryptageTransposition_andras.dll
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.pdb
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\5tti_cryptageTransposition_andras.genruntimeconfig.cache
+C:\Users\Andra\OneDrive\Bureau\visual\5tti_cryptageTransposition_andras\obj\Debug\net6.0\ref\5tti_cryptageTransposition_andras.dll
